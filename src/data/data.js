@@ -1,0 +1,2 @@
+const months = ['January', 'February', 'March', 'April', 'May', 'June','July', 'Augost', 'September', 'October', 'November', 'December']
+const days   = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday']
